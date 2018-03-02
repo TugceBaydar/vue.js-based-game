@@ -1,0 +1,33 @@
+h1 {
+  color:tomato;
+  text-align: center;
+}
+
+#middle {
+  text-align: center;
+  background-color: #8dd2de;
+  height: 200px;
+  padding: 5%;
+}
+
+#ll , #rr {
+  display: inline-block;
+  width:48%;
+  color:white;
+  padding: 1%;
+}
+
+#left , #right {
+  background-color: #3c763d;
+  padding: 1%;
+  width: 100%;
+}
+
+#buttons {
+  text-align: center;
+}
+
+.four {
+  width: 20%;
+  margin-right: 2%;
+}
